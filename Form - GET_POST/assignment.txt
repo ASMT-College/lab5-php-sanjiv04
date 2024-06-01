@@ -1,0 +1,4 @@
+- Create a basic form in .php file
+- Input age and check if the user is at least 18 or not
+- If not 18, show ineligible and show remaining age
+- If above 18, show the user is eligible 
